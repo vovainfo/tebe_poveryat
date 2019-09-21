@@ -1,0 +1,27 @@
+@import url(./__list/main-text__list.css);
+@import url(./__list-item/main-text__list-item.css);
+@import url(./__text/main-text__text.css);
+@import url(./__h1/main-text__h1.css);
+@import url(./__h2/main-text__h2.css);
+@import url(./__buton-patreon/main-text__button-patreon.css);
+@import url(./__14gray/main-text__14gray.css);
+@import url(./__24black/main-text__24black.css);
+@import url(./__patreon/main-text__patreon.css);
+
+.main-text{
+}
+
+.main-text_gray{
+    background: #E5E5E5;
+    overflow: auto;
+}
+
+.main-text_white{
+    background: white;
+    overflow: auto;
+}
+
+.main-text_flex{
+    display: flex;
+    margin-top: 70px;
+}

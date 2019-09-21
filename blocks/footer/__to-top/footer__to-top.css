@@ -1,0 +1,7 @@
+.footer__to-top{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+}

@@ -1,0 +1,16 @@
+.main-text__list-item{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.07em;
+    color: #616161;
+    margin-top: 22px;
+}
+.main-text__list-item:first-child{
+    margin-top: 0;
+}
+.main-text__list-item_light{
+    color: #FF8B02;
+}

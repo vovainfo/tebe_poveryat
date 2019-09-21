@@ -1,0 +1,20 @@
+.main-text__text{
+    font-family: Yanone Kaffeesatz, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.07em;
+    color: #2D2D2D;
+}
+
+.main-text__text_first{
+    margin-top: 74px;
+    margin-bottom: 29px;
+}
+
+.main-text__text_last{
+    margin-top: 44px;
+    margin-bottom: 92px;
+}
+

@@ -1,0 +1,14 @@
+.main-text__14gray{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.06em;
+    color: #616161;
+    margin-top: 18px;
+}
+
+.main-text__14gray_light{
+    color: #E7820C;
+}

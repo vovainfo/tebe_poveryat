@@ -1,0 +1,15 @@
+.main-text__button-patreon{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.06em;
+    color: #FBFBFB;
+    background: #E7820C;
+    border: 2px solid #E7820C;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 197px;
+    height: 44px;
+}

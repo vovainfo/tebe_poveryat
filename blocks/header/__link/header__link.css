@@ -1,0 +1,14 @@
+.header__link{
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+    color: #303030;
+    text-decoration: none;
+}
+
+.header__link.header__link_selected{
+    color: #FF8B02;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.06em;
+}

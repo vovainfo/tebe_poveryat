@@ -1,0 +1,9 @@
+h1,h2,h3,h4,p,a,div,ul,li {
+    margin: 0;
+    padding: 0;
+}
+
+.padding155{
+    padding-left: 155px;
+    padding-right: 155px;
+}
