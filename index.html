@@ -6,7 +6,7 @@
     <title>Помочь проекту</title>
     <link href="pages/index.css" rel="stylesheet">
 </head>
-<body>
+<body id="top">
 <div class="page">
     <header class="header">
         <nav class="header__menu">
@@ -54,7 +54,7 @@
                 <div class="main-text_flex">
                     <div>
                         <h2 class="main-text__h2">Поддержать через Яндекс кошелёк:</h2>
-                        <iframe allowtransparency="true" frameborder="0" height="224" width="594px" scrolling="no" src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%22%D0%A2%D0%B5%D0%B1%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%82%22&targets-hint=&default-sum=800&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410013855641186"></iframe>
+                        <iframe allowtransparency="true" frameborder="0" height="224" width="594" scrolling="no" src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%22%D0%A2%D0%B5%D0%B1%D0%B5%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%82%22&targets-hint=&default-sum=800&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410013855641186"></iframe>
                     </div>
                     <div class="main-text__patreon">
                         <h2 class="main-text__h2">Поддержать на Patreon:</h2>
@@ -74,11 +74,13 @@
     </main>
     <footer class="footer padding155">
         <div class="footer__to-top">
-            <svg width="22" height="32" viewBox="0 0 22 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11 31.5V1" stroke="#FBFBFB"/>
-                <path d="M1 9.5L11 1L21 9.5" stroke="#FBFBFB"/>
-            </svg>
-            <p class="footer__text">В начало</p>
+            <a href="#top">
+                <svg width="22" height="32" viewBox="0 0 22 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M11 31.5V1" stroke="#FBFBFB"/>
+                    <path d="M1 9.5L11 1L21 9.5" stroke="#FBFBFB"/>
+                </svg>
+            </a>
+            <a class="footer__text" href="#top">В начало</a>
         </div>
         <p class="footer__text">Вступайте в нашу <a class="footer__link" href="#">группу Вконтакте</a></p>
         <p class="footer__text">Дизайн сайта: <a class="footer__link" href="#">Анна Заикина</a></p>
